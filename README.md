@@ -1,3 +1,3 @@
 ﻿# homework2-1-2
 
- ![Logo](./diagram.png)
+ ![Example](./diagram.png)
